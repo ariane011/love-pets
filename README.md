@@ -1,8 +1,8 @@
-## Love Pets :cat: :heart: :dog:
+### :heart: Love Pets
 
 ### O Love Pets é uma aplicativo voltado para ONGs e pessoas que querem ajuda-lás. 
 
-### Na aplicação web, a ONG pode se registrar e cadastrar os incidentes, enquanto que no App desenvolvido para Mobile, as pessoas podem visualizar esses incidentes  e ajudar, entrando em contato com a ONG por meio de e-mail ou WhatsApp.
+#### Na aplicação web, a ONG pode se registrar e cadastrar os incidentes, enquanto que no App desenvolvido para Mobile, as pessoas podem visualizar esses incidentes  e ajudar, entrando em contato com a ONG por meio de e-mail ou WhatsApp.
 
 ****
 
@@ -29,3 +29,43 @@
 :globe_with_meridians: [Link da aplicação](https://lovepets.netlify.app/)
 
 ****
+
+## :derelict_house: Rodar o projeto localmente
+
+****
+
+## ⚠️ Pré-requisitos: 
+
+1. Node.js e NPM instalado
+
+****
+
+1. Clone o projeto na sua máquina
+
+```sh
+git clone https://github.com/ariane011/love-pets-front.git
+```
+
+2. Acesse a pasta do projeto
+
+```sh
+cd love-pets-front-end
+```
+
+3. Instale todas as dependências do projeto
+
+```sh
+npm install
+```
+
+4. Rode o projeto na sua máquina
+
+```sh
+npm start
+```
+
+5. Abra o navegador e visualize o projeto
+
+```sh
+http://localhost:3000
+```
