@@ -10,6 +10,9 @@
 
 ![demo](./src/assets/demo.gif)
 
+Essa é a aplicação front-end que está no netlify:
+
+:globe_with_meridians: [Link da aplicação](https://lovepets.netlify.app/)
 
 ****
 
@@ -26,19 +29,12 @@
 
 ****
 
-:globe_with_meridians: [Link da aplicação](https://lovepets.netlify.app/)
-
-****
-
 ## :derelict_house: Rodar o projeto localmente
-
-****
 
 ## ⚠️ Pré-requisitos: 
 
 - Node.js e NPM instalado
 
-****
 
 Passo 1: Clone o projeto na sua máquina
 
