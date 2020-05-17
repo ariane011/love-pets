@@ -36,35 +36,34 @@
 
 ## ⚠️ Pré-requisitos: 
 
-1. Node.js e NPM instalado
+- Node.js e NPM instalado
 
 ****
 
-1. Clone o projeto na sua máquina
+Passo 1: Clone o projeto na sua máquina
 
 ```sh
 git clone https://github.com/ariane011/love-pets-front.git
 ```
-
-2. Acesse a pasta do projeto
+Passo 2: Acesse a pasta do projeto
 
 ```sh
 cd love-pets-front-end
 ```
 
-3. Instale todas as dependências do projeto
+Passo 3: Instale todas as dependências do projeto
 
 ```sh
 npm install
 ```
 
-4. Rode o projeto na sua máquina
+Passo 4: Rode o projeto na sua máquina
 
 ```sh
 npm start
 ```
 
-5. Abra o navegador e visualize o projeto
+Passo 5: Abra o navegador e visualize o projeto
 
 ```sh
 http://localhost:3000
